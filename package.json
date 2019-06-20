@@ -1,11 +1,8 @@
 {
-  "name": "ember-ghost-casper-blog",
-  "version": "0.0.0",
+  "name": "ember-ghost-starter",
+  "version": "0.0.1",
   "private": true,
-  "description": "Small description for ember-ghost-casper-blog goes here",
-  "repository": "",
   "license": "MIT",
-  "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"

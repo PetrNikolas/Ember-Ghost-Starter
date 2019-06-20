@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-ghost-casper-blog',
+    modulePrefix: 'ember-ghost-starter',
     environment,
     rootURL: '/',
     locationType: 'auto',
